@@ -1,5 +1,0 @@
-centrale;type;Pmax (MW);nb unités;capacité totale (MW);Pmin (MW);durée minimum marche et arrêt (h);taux annuel arrêt fortuit (%);durée arrêt fortuit (j);nombre maintenances par an par unité;durée maintenance (j);coût marginal (€/MWh);coût de démarrage (€)
-Bois Rouge;bagasse/charbon;33;3;100;10;6;0,05;7;1;21;40;50000
-Le Gol;bagasse/charbon;37;3;111;10;6;0,05;7;1;21;40;50000
-La Baie;TAC;40;2;80;15;1;0,05;7;1;21;150;2000
-Le Port Est;diesel;18;12;216;0;1;0,05;7;1;21;80;1000
